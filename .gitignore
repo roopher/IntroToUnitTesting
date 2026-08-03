@@ -1,0 +1,9 @@
+/.gradle
+/bin
+/build
+/build.gradle
+/gradle
+/gradlew
+/gradlew.bat
+/README.md
+/settings.gradle
